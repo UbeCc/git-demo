@@ -13,4 +13,4 @@ hello tsinghua! hello git!
 hello tsinghua! hello git!
 hello tsinghua! hello git!
 hello tsinghua! hello git!
-modified in master mode
+modified in hot-fix mode
